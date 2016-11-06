@@ -2,7 +2,7 @@
 
 ## 简介
 
-设计模板类<font color = Orchid>blockList</font>实现了大规模数据管理操作，并实现了其随机迭代器。为了实现分块管理，还实现了模板类<font color = Orchid>block</font>
+设计模板类<font color = Orchid>blockList</font>实现了大规模数据管理操作，并实现了其随机迭代器。为了实现分块管理，还实现了模板类<code><font color = Orchid>block</font></code>
 
 ## 文件
 

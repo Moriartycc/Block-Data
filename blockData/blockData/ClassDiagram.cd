@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="blockList&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Typedef Name="blockList&lt;T&gt;::value_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>blockList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="blockList&lt;T&gt;::block_table_itr" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>blockList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="blockList&lt;T&gt;::block_itr" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>blockList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Class Name="blockList&lt;T&gt;::iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>blockList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Typedef Name="blockList&lt;T&gt;::const_iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>blockList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEAgECECABBAgAAgAAEIAAASAAGAIAAAAQEgCAAAAEA=</HashCode>
+      <FileName>blockList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+﻿  源.cpp
+e:\学习\作业\计算机双学位\c++ programming design\homework\按块组织数据\blockdata\blockdata\blocklist.h(308): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  e:\学习\作业\计算机双学位\c++ programming design\homework\按块组织数据\blockdata\blockdata\blocklist.h(300): note: 编译类 模板 成员函数“void blockList<int>::insert(blockList<int>::iterator,int *,int *)”时
+  e:\学习\作业\计算机双学位\c++ programming design\homework\按块组织数据\blockdata\blockdata\源.cpp(15): note: 参见对正在编译的函数 模板 实例化“void blockList<int>::insert(blockList<int>::iterator,int *,int *)”的引用
+  e:\学习\作业\计算机双学位\c++ programming design\homework\按块组织数据\blockdata\blockdata\源.cpp(14): note: 参见对正在编译的类 模板 实例化“blockList<int>”的引用
+e:\学习\作业\计算机双学位\c++ programming design\homework\按块组织数据\blockdata\blockdata\blocklist.h(313): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\学习\作业\计算机双学位\c++ programming design\homework\按块组织数据\blockdata\blockdata\blocklist.h(332): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  blockData.vcxproj -> E:\学习\作业\计算机双学位\C++ Programming Design\Homework\按块组织数据\blockData\Debug\blockData.exe
+  blockData.vcxproj -> E:\学习\作业\计算机双学位\C++ Programming Design\Homework\按块组织数据\blockData\Debug\blockData.pdb (Full PDB)
